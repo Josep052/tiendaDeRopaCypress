@@ -1,0 +1,4 @@
+{
+    "searchBox":"#search-input > #search",
+    "searchButton":"#search-icon-legacy"
+}

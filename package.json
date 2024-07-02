@@ -4,11 +4,15 @@
   "description": "Pruebas automatizadas del sistema de tienda de ropa",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx cypress run"
   },
   "author": "Josep",
   "license": "ISC",
   "dependencies": {
     "cypress": "^13.13.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://https://github.com/Josep052/tiendaDeRopaCypress"
   }
 }
